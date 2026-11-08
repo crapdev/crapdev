@@ -36,8 +36,8 @@
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| [**SkillBridge AI**](https://github.com/crapdev/SkillBridge-fullStack) | Plataforma de mentorías con reservas, pagos y asistente de IA. Mi proyecto más completo. | Java 21 · Spring Boot · Angular 20 · PostgreSQL · Redis · RabbitMQ · Docker · CI |
+| [**SkillBridge AI**](https://github.com/crapdev/SkillBridge-fullStack) | Plataforma de mentorías con reservas, pagos y asistente de IA. Mi proyecto más completo. [🌐 Demo](https://skill-bridge-full-stack-sigma.vercel.app) | Java 21 · Spring Boot · Angular 20 · PostgreSQL · Redis · RabbitMQ · Docker · CI |
 | [**HelpFlow**](https://github.com/crapdev/test-Performance-spring) | Mesa de soporte TI con SLA y asignación automática de técnicos, en dos microservicios. | Spring Boot · Arquitectura hexagonal · JWT · PostgreSQL · Testcontainers |
-| [**Barranquilla Explora**](https://github.com/crapdev/Barranquilla-Explora) | App web de turismo: lugares, eventos e itinerarios con roles de explorador, organizador y admin. | JavaScript · Node.js · Express · PostgreSQL · JWT |
+| [**Barranquilla Explora**](https://github.com/crapdev/Barranquilla-Explora) | App web de turismo: lugares, eventos e itinerarios con roles de explorador, organizador y admin. [🌐 Demo](https://proyecto-turismo-gamma.vercel.app) | JavaScript · Node.js · Express · PostgreSQL · JWT |
 | [**TallerExpress**](https://github.com/crapdev/java-performance-test) | Sistema para la gestión de un taller mecánico con arquitectura por capas y transacciones. | Java SE · JDBC · PostgreSQL |
 | [**TaskFlow SPA**](https://github.com/crapdev/TaskFlowSPA) | Gestor de tareas SPA con router propio, autenticación y panel de administración. | JavaScript · Vite · Tailwind · json-server |
