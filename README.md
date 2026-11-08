@@ -20,17 +20,16 @@
 
 ### 🛠️ Stack
 
-**Lenguajes y tecnologías principales**
+**Lenguajes y tecnologías principales** — Java · Spring · SQL (PostgreSQL) · Docker · JavaScript · Python · HTML · CSS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,docker&theme=dark" alt="Java, Spring, JavaScript, Python, HTML, CSS, Docker" />
-  <img height="48" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,js,python,html,css&theme=dark" alt="Java, Spring, SQL con PostgreSQL, Docker, JavaScript, Python, HTML, CSS" />
 </p>
 
 **Frameworks · Datos · Herramientas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,angular,vite,tailwind,postgres,redis,rabbitmq,nginx,githubactions,maven,git,linux&theme=dark" alt="Node.js, Express, Angular, Vite, Tailwind, PostgreSQL, Redis, RabbitMQ, Nginx, GitHub Actions, Maven, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,angular,vite,tailwind,redis,rabbitmq,nginx,githubactions,maven,git,linux&theme=dark" alt="Node.js, Express, Angular, Vite, Tailwind, Redis, RabbitMQ, Nginx, GitHub Actions, Maven, Git, Linux" />
 </p>
 
 ### 🚀 Proyectos destacados
@@ -42,16 +41,3 @@
 | [**Barranquilla Explora**](https://github.com/crapdev/Barranquilla-Explora) | App web de turismo: lugares, eventos e itinerarios con roles de explorador, organizador y admin. | JavaScript · Node.js · Express · PostgreSQL · JWT |
 | [**TallerExpress**](https://github.com/crapdev/java-performance-test) | Sistema para la gestión de un taller mecánico con arquitectura por capas y transacciones. | Java SE · JDBC · PostgreSQL |
 | [**TaskFlow SPA**](https://github.com/crapdev/TaskFlowSPA) | Gestor de tareas SPA con router propio, autenticación y panel de administración. | JavaScript · Vite · Tailwind · json-server |
-
-### 📊 Estadísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crapdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=typescript" alt="Lenguajes más usados" />
-</p>
-
-### 📫 Contacto
-
-<!-- Cambia el enlace por tu perfil real de LinkedIn o bórralo -->
-<a href="https://www.linkedin.com/in/TU-USUARIO">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
